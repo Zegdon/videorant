@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="videorant-server:war">
+    <output-path>$PROJECT_DIR$/server/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>videorant-server</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="videorant_dev.war">
+      <element id="artifact" artifact-name="videorant-server:war exploded" />
+    </root>
+  </artifact>
+</component>

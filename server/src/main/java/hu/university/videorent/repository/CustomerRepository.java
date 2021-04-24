@@ -1,4 +1,4 @@
 package main.java.hu.university.videorent.repository;
 
-public interface CostumerRepository {
+public interface CustomerRepository {
 }
