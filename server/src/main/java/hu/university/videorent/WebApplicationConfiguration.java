@@ -1,4 +1,4 @@
-package hu.university.videorant;
+package hu.university.videorent;
 
 import java.io.IOException;
 

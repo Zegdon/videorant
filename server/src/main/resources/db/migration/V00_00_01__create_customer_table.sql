@@ -1,4 +1,4 @@
-CREATE TABLE costumer (
+CREATE TABLE customer (
     id INT AUTO_INCREMENT,
     name VARCHAR(100) NOT NULL,
     full_adress VARCHAR(200) NOT NULL,
