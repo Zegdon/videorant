@@ -1,4 +1,4 @@
-package main.java.hu.university.videorent.domain;
+package hu.university.videorent.domain;
 
 import javax.persistence.*;
 import java.io.Serializable;
